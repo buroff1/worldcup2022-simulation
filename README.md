@@ -1,7 +1,9 @@
 # World Cup 2022 Simulation 🏆
 
 ## 🧪 Demo
-![5D88787E-7F73-4DE7-839C-62E2AD7793ED_2_0_a_F76C486B-5063-4C71-8C2D-04A45ED0771B-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f3bed679-6ffa-4c82-aa4d-44e1608f15d0)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3bed679-6ffa-4c82-aa4d-44e1608f15d0" alt="Demo">
+</p>
 
 ## 📝 Content
 
