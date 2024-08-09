@@ -1,11 +1,11 @@
 # World Cup 2022 Simulation 🏆
 
-## 🧪 Demo
+## 🧪Demo
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f3bed679-6ffa-4c82-aa4d-44e1608f15d0" alt="Demo">
 </p>
 
-## 📝 Content
+## 📝Content
 
 - [Overview](#%EF%B8%8Foverview)
 - [Technologies](#technologies)
